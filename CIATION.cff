@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: “Bian”
+  given-names: “Ce”
+  orcid: "https://orcid.org/0009-0003-7721-5552"
+
+title: "My Research Software"
+version: 1.0
+doi: 10.5281/zenodo.1234
+date-released: 2024-01-11
+url: "https://github.com/cecbian/Transation_Scale"
